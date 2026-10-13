@@ -2,6 +2,8 @@
 
 An autonomous agentic intelligence system built with the Google Agent Development Kit (ADK) and Gemini, designed for competitive BGMI / Battlegrounds esports organizations, analysts, and coaches.
 
+**Live Application**: [https://esports-hub-frontend-159890675996.us-central1.run.app](https://esports-hub-frontend-159890675996.us-central1.run.app)
+
 ![Esports Hub Demo](assets/demo.gif)
 
 ---
